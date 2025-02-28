@@ -22,7 +22,7 @@ At Graph Research Lab @ ANU, we are searching for passionate, talented, and moti
 
 ---
 
-### 1. PhD Opportunity: "Deep Learning for Graphs"
+#### 1. PhD Opportunity: "Deep Learning for Graphs"
 
 **Position Overview:**  
 This PhD opportunity invites you to tackle grand challenges at the intersection of deep learning and graph theory. By leveraging state-of-the-art techniques and recent advances, you will develop novel heuristics, scalable architectures, and theoretical frameworks to unlock the potential of graph-structured data while applying these innovations to solve real-world problems.
@@ -48,7 +48,7 @@ Email your application and inquiries to [qing.wang@anu.edu.au](mailto:qing.wang@
 
 ---
 
-### 2. PhD Opportunity: "Routing Optimization"
+#### 2. PhD Opportunity: "Routing Optimization"
 
 **Position Overview:**  
 We invite applications for a PhD position focused on advancing research in routing optimization, graph algorithms, and network science. Hosted at the Graph Research Lab within the School of Computing at ANU, this role will enable you to develop innovative algorithms to optimize routing in complex, dynamic networks, addressing challenges in transportation, logistics, and urban planning.

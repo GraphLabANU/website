@@ -1,106 +1,84 @@
+
 ---
-title: "Graph Research Lab @ ANU - Opennings"
+title: "Graph Research Lab @ ANU - PhD Opportunities"
 layout: textlay
-excerpt: "Graph Research Lab @ ANU"
+excerpt: "Join our team at ANU for cutting-edge research in graph theory, machine learning, and network science."
 sitemap: false
 permalink: /vacancies
 ---
 
-### Current open opportunities:
+# Join Our Research Team
 
-<br/>
+At Graph Research Lab @ ANU, we are searching for passionate, talented, and motivated researchers eager to push the boundaries of graph theory, machine learning, and network science. Whether you’re an ANU student or a prospective PhD candidate, our dynamic research environment offers unparalleled opportunities to engage in groundbreaking projects, collaborate with leading experts, and build a successful career in academia or industry.
 
-#### 1. Research Project Opportunities for ANU Students
+**Currently, we are offering two PhD positions (one of which must start in 2025, ideally between September and December, due to funding requirements).**
 
-- <a href="https://comp.anu.edu.au/study/projects/deep-learning-for-efficient-route-planning/">Deep Learning for Efficient Route Planning</a>
+---
 
-- <a href="https://comp.anu.edu.au/study/projects/geometric-route-planning/">Geometric Route Planning</a>
+## Why Join Graph Research Lab @ ANU?
 
-- <a href="https://comp.anu.edu.au/study/projects/research-projects-with-graph-research-lab-anu/">Graph Deep Learning - Theory and Practice</a>
+- **Cutting-Edge Research:** Work on high-impact projects that advance the fields of deep learning and routing optimization.  
+- **Collaborative Environment:** Join a multidisciplinary team with a strong track record of influential publications and conference presentations.  
+- **Career Growth:** Benefit from world-class mentorship, access to state-of-the-art facilities, and a supportive research culture.
 
-- <a href="https://comp.anu.edu.au/study/projects/research-projects-with-graph-research-lab-anu/">Scalable Graph Algorithms for Data Science</a>
+---
 
-- <a href="https://comp.anu.edu.au/study/projects/representation-learning-for-multi-view-graphs-1/">Representation Learning for Multi-View Graphs</a>
+## 1. PhD Opportunity: "Deep Learning for Graphs"
 
-&nbsp;
+**Position Overview:**  
+This PhD opportunity invites you to tackle grand challenges at the intersection of deep learning and graph theory. By leveraging state-of-the-art techniques and recent advances, you will develop novel heuristics, scalable architectures, and theoretical frameworks to unlock the potential of graph-structured data while applying these innovations to solve real-world problems.
 
-#### 2. ANU School of Computing PhD opportunities: "Scalable Graph Algorithms"
+**What You’ll Do:**  
+- Explore new research questions in deep learning applied to graph-structured data.  
+- Develop and test novel techniques and theoretical models.  
+- Collaborate with a multidisciplinary team on high-impact projects.  
+- Contribute to publications and conferences in leading forums such as NeurIPS, ICLR, ICML, and AAAI.
 
-We are looking for an excellent candidate for a Ph.D. position in the Graph Research Lab (<a href="https://graphlabanu.github.io/website/">https://graphlabanu.github.io/website/</a>), School of Computing at the Australian National University. You will work under the supervision of Associate Professor Qing Wang, Dr Muhammad Farhan, Dr Henning Koehler and Professor Brendan McKay. You will be involved in developing new techniques and algorithms to advance state-of-the-art research in the area of graph algorithms, graph theory, and network science. Some related publications can be found at <a href="https://graphlabanu.github.io/website/projects/.">https://graphlabanu.github.io/website/projects/.</a>
+**Eligibility:**  
+- A Bachelor's or Master’s degree in Computing, Mathematics, or a closely related field with First-Class Honours (or equivalent).  
+- Demonstrated excellence in programming, with proficiency in languages such as C, C++, or Python.  
+- Proven research experience or a strong academic interest in machine learning, deep learning, and/or graph theory.  
+- Solid foundation in algorithm design and analysis, with excellent analytical and problem-solving skills.
 
-The ideal candidate should have
+**Application:**  
+Email your application and inquiries to Associate Professor Qing Wang at [qing.wang@anu.edu.au](mailto:qing.wang@anu.edu.au) with the subject **“PhD Application”**. Include:  
+1. A one-page motivation letter.  
+2. Your CV.  
+3. Academic transcripts.  
+4. Samples of prior research (e.g., thesis, publications).
 
-- a Bachelor/Master’s degree in computing or mathematics with first-class honours or equivalent
-- a very good background in algorithms and theoretical computer science
-- excellent programming skills in C/C++/Java
+---
 
-Please email your inquiries/applications to Dr. Muhammad Farhan (<a href = "mailto: muhammad.farhan@anu.edu.au">muhammad.farhan@anu.edu.au</a>) with the subject ‘PhD Application’ and the following documents:
+## 2. PhD Opportunity: "Routing Optimization"
 
-<ol type = "1">
-<li> Cover letter and/or essay </li>
-<li> Resume </li>
-<li> Academic transcripts </li>
-<li> Prior research work (thesis/research papers etc.) </li>
-<li> Contact details of 2-3 referees </li>
-</ol>
+**Position Overview:**  
+We invite applications for a PhD position focused on advancing research in routing optimization, graph algorithms, and network science. Hosted at the Graph Research Lab within the School of Computing at ANU, this role will enable you to develop innovative algorithms to optimize routing in complex, dynamic networks, addressing challenges in transportation, logistics, and urban planning.
 
-Please note that applicants will need to apply for admission following the ANU HDR policy and meet the language requirements by ANU.
+**What You’ll Do:**  
+- Design and implement innovative algorithms to optimize routing in complex, dynamic networks.  
+- Engage in collaborative research that bridges theoretical developments with practical applications.  
+- Contribute to high-quality publications and present your work at leading conferences such as SIGMOD and NeurIPS/ICLR/ICML.
 
-&nbsp;
+**Eligibility:**  
+- A Bachelor's or Master’s degree in Computing, Mathematics, or a closely related field with First-Class Honours (or equivalent).  
+- Demonstrated excellence in programming, with proficiency in languages such as C, C++, or Python.  
+- Proven research experience or a strong academic interest in machine learning, deep learning, and/or graph theory.  
+- Solid foundation in algorithm design and analysis, with excellent analytical and problem-solving skills.
 
-#### 3. ARC Discovery Project PhD opportunities: "Deep Learning for Graphs"
+**Application:**  
+Email your application and inquiries to Associate Professor Qing Wang at [qing.wang@anu.edu.au](mailto:qing.wang@anu.edu.au) with the subject **“PhD Application”**. Include:  
+1. A one-page motivation letter.  
+2. Your CV.  
+3. Academic transcripts.  
+4. Samples of prior research (e.g., thesis, publications).
 
-Supported by a grant from the Australian Research Council, we are currently looking for PhD students with passion, talent and grit to join the team. You will have the chance to work on the grand challenges at the intersection of deep learning and graph theory. You will be involved in discussing important and interesting questions in this challenging area, developing new heuristic techniques and theories to advance state-of-the-art methodologies, and evaluating their applications in solving real-world problems. PhD students will be supervised by Prof. Brendan McKay and A/Prof. Qing Wang, and may collaborate on other related projects in the team. Some related publications can be found at <a href="https://graphlabanu.github.io/website/projects/.">https://graphlabanu.github.io/website/projects/.</a>
+---
 
-**Eligibility**
+*Note:* All applicants must apply for admission following the ANU HDR policy and meet ANU’s language requirements.
 
-- A Bachelor/Masters degree in computing or mathematics with first-class honours or equivalent; <br />
-- Excellent programming skills; <br />
-- Strong interest in mathematics or theoretical computer science; <br />
-- Good knowledge of machine learning/deep learning (e.g., have undertaken courses in machine learning). <br />
+For more details on related projects and publications, please visit our [projects page](https://graphlabanu.github.io/website/projects/).
 
-<p></p>
+We look forward to welcoming new scholars who are eager to contribute to groundbreaking research.
 
-**Application** <br />
 
-Please email your inquiries/applications to A/Prof. Qing Wang (<a href = "mailto: qing.wang@anu.edu.au">qing.wang@anu.edu.au</a>) with the subject 'PhD Application' and the following documents: <br />
 
-<ol type = "1">
-<li> You need to attach a motivation letter (max one page) on why you would like	to join our team and about your research interests. </li>
-<li> Please also attach a CV, academic transcripts, previous research work, e.g., Honors/Masters thesis, papers, etc. </li>
-</ol>
-  
-Please note that applicants will need to apply for admission following the ANU HDR policy and meet the language requirements by ANU.
-
-<p></p>
-
-{% comment %}
-
-**Other information**
-
-- ANU School of Computing: <a href="https://cs.anu.edu.au/">https://cs.anu.edu.au/</a> <br />
-- ANU College of Engineering and Computer Science webpage for PhD & MPhil applicants: <a href="https://cecs.anu.edu.au/study/phd-mphil">https://cecs.anu.edu.au/study/phd-mphil</a><br />
-
-&nbsp;
-
-#### (Closed) Data61 PhD opportunities: "Privacy-Enhanced Analytics on Evolving Graphs"
-
-[PDF version]({{ site.baseurl }}/downloads/Data61PhDopportunity1.pdf)
-
-There are some PhD opportunities with potential full scholarships available for those interested in research
-involving machine learning and data privacy. **_The application deadline is 5 November._**
-
-**Skills/Capability required**
-
-- Bachelor's degree in Computer Science or relevant field.
-- Strong mathematical knowledge, knowledgeable in graph theory and/or machine learning
-  techniques.
-- Some experience with programming languages (e.g. Python, R) and Privacy-Enhancing
-  Technologies.
-
-If you have any inquiries, please email them to Dr Thilina Ranbaduge (Data61, Black Mountain): (<a href = "mailto: thilina.ranbaduge@data61.csiro.au">thilina.ranbaduge@data61.csiro.au</a>) or A/Prof. Qing Wang (<a href = "mailto: qing.wang@anu.edu.au">qing.wang@anu.edu.au</a>). For the details on eligibility and how to apply, please visit the following link:
-
-<a href="https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB">https://jobs.csiro.au/job/Various-Data61-PhD-Scholarships/796808000/?locale=en_GB</a><br />
-
-{% endcomment %}
-&nbsp;

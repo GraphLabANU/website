@@ -1,9 +1,10 @@
 ---
 title: "Graph Research Lab @ ANU - PhD Opportunities"
 layout: textlay
-excerpt: "Join our team at ANU for cutting-edge research in graph theory, machine learning, and network science."
+excerpt: "Join our team at ANU for cutting-edge research in graph theory, deep learning, and network science. Fully funded PhD positions available."
 sitemap: false
 permalink: /vacancies
+keywords: "PhD in Graph Theory, Deep Learning for Graphs, Fully Funded PhD ANU"
 ---
 
 ### Join Our Research Team
@@ -23,11 +24,6 @@ At Graph Research Lab @ ANU, we are searching for passionate, talented, and moti
 ---
 
 #### 1. PhD Opportunity: "Deep Learning for Graphs"
-
-<div style="display: flex; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ site.baseurl }}/images/1.png" alt="Deep Learning for Graphs Image 1" style="width: 45%;">
-  <img src="{{ site.baseurl }}/images/2.png" alt="Deep Learning for Graphs Image 2" style="width: 45%;">
-</div>
 
 **Position Overview:**  
 This PhD opportunity invites you to tackle grand challenges at the intersection of deep learning and graph theory. By leveraging state-of-the-art techniques and recent advances, you will develop novel heuristics, scalable architectures, and theoretical frameworks to unlock the potential of graph-structured data while applying these innovations to solve real-world problems.
@@ -54,11 +50,6 @@ Email your application and inquiries to [qing.wang@anu.edu.au](mailto:qing.wang@
 ---
 
 #### 2. PhD Opportunity: "Routing Optimization"
-
-<div style="display: flex; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ site.baseurl }}/images/1.png" alt="Routing Optimization Image 1" style="width: 45%;">
-  <img src="{{ site.baseurl }}/images/2.png" alt="Routing Optimization Image 2" style="width: 45%;">
-</div>
 
 **Position Overview:**  
 We invite applications for a PhD position focused on advancing research in routing optimization, graph algorithms, and network science. Hosted at the Graph Research Lab within the School of Computing at ANU, this role will enable you to develop innovative algorithms to optimize routing in complex, dynamic networks—addressing challenges in transportation, logistics, and urban planning.

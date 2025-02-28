@@ -51,7 +51,7 @@ firstp {
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  max-width: 1200px; /* or 950px */
+  max-width: 1050px; /* or 950px */
 }
 
 /* Home, News */
@@ -223,8 +223,8 @@ details[open] summary:after {
   margin-right: 0;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
   .container-fluid {
-    max-width: 1400px; /* or whatever value you want on larger screens */
+    max-width: 1100px; /* or whatever value you want on larger screens */
   }
 }

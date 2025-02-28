@@ -25,4 +25,26 @@
     "logo": "{{ site.url }}{{ site.baseurl }}/images/favicon.ico"
   }
   </script>
+
+  <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "{{ site.title }}",
+  "url": "{{ site.url }}{{ site.baseurl }}",
+  "description": "{{ site.description | escape }}",
+  "logo": "{{ site.url }}{{ site.baseurl }}/images/favicon.ico",
+  "address": {
+    "streetAddress": "Australian National University",
+    "addressLocality": "Canberra",
+    "addressRegion": "ACT",
+    "postalCode": "2600",
+    "addressCountry": "Australia"
+  },
+  "sameAs": [
+    "https://comp.anu.edu.au/people/qing-wang/",
+    "https://www.linkedin.com/in/qing-wang-anu/"
+  ]
+}
+</script>
 </head>

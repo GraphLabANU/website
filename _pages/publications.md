@@ -10,7 +10,9 @@ permalink: /publications/
 
 (For a list of recent publications see [below](#list-of-recent-publications))
 
+{% comment %}
 [Graph Machine Learning](#graph-machine-learning) (Graph Neural Networks; Graph Kernels; Graph Matching) &nbsp; [Graph Algorithms](#graph-algorithms) &nbsp; [Knowledge Tracing](#knowledge-tracing) &nbsp;
+{% endcomment %}
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

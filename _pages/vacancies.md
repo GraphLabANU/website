@@ -1,4 +1,3 @@
-
 ---
 title: "Graph Research Lab @ ANU - PhD Opportunities"
 layout: textlay

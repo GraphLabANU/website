@@ -5,13 +5,24 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="google-site-verification" content="da5XiY1lwHhLm-lwSot-BkZYvU3_KLXNow8ZyFYa1r0">
-  <meta name="keywords" content="graph, subgraph, graph learning, graph machine learning, graph neural network, graph matching, graph isomorphism, heterophilic graphs, constrastive learing, expressivness, message passing neural network, spectral filter, Weisfeiler-Lehman, graph classification, node classification, graph theory, graph algorithms, distance labelling, distance queries, shortest path, shortest path distance, dynamic algorithm, complex network, road network, knowledge tracing, entity resolution, active learning, differential privacy">
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | escape }}{% else %}graph, subgraph, graph learning, graph machine learning, graph neural network, graph matching, graph isomorphism, heterophilic graphs, contrastive learning, expressiveness, message passing neural network, spectral filter, Weisfeiler-Lehman, graph classification, node classification, graph theory, graph algorithms, distance labelling, distance queries, shortest path, shortest path distance, dynamic algorithm, complex network, road network, knowledge tracing, entity resolution, active learning, differential privacy{% endif %}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
 
-{% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
-
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+  
+  <!-- Structured Data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "EducationalOrganization",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}{{ site.baseurl }}",
+    "description": "{{ site.description | escape }}",
+    "logo": "{{ site.url }}{{ site.baseurl }}/images/favicon.ico"
+  }
+  </script>
 </head>

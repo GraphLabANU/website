@@ -6,15 +6,15 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Join Our Research Team
+## Join Our Research Team
 
-At Graph Research Lab @ ANU, we are searching for passionate, talented, and motivated researchers eager to push the boundaries of graph theory, machine learning, and network science. Whether you’re an ANU student or a prospective PhD candidate, our dynamic research environment offers unparalleled opportunities to engage in groundbreaking projects, collaborate with leading experts, and build a successful career in academia or industry.
+At Graph Research Lab @ ANU, we are searching for passionate, talented, and motivated researchers eager to push the boundaries of graph theory, machine learning, and network science. Whether you’re an ANU student or a prospective PhD candidate, our dynamic research environment offers you opportunities to engage in groundbreaking projects, collaborate with leading experts, and build a successful career in academia or industry.
 
-**Currently, we are offering two PhD positions (one of which must start in 2025, ideally between September and December, due to funding requirements).**
+**Currently, we are offering two PhD positions** (one of which must start in 2025, ideally between September and December, due to funding requirements).
 
 ---
 
-## Why Join Graph Research Lab @ ANU?
+### Why Join Graph Research Lab @ ANU?
 
 - **Cutting-Edge Research:** Work on high-impact projects that advance the fields of deep learning and routing optimization.  
 - **Collaborative Environment:** Join a multidisciplinary team with a strong track record of influential publications and conference presentations.  
@@ -22,7 +22,7 @@ At Graph Research Lab @ ANU, we are searching for passionate, talented, and moti
 
 ---
 
-## 1. PhD Opportunity: "Deep Learning for Graphs"
+### 1. PhD Opportunity: "Deep Learning for Graphs"
 
 **Position Overview:**  
 This PhD opportunity invites you to tackle grand challenges at the intersection of deep learning and graph theory. By leveraging state-of-the-art techniques and recent advances, you will develop novel heuristics, scalable architectures, and theoretical frameworks to unlock the potential of graph-structured data while applying these innovations to solve real-world problems.
@@ -48,7 +48,7 @@ Email your application and inquiries to Associate Professor Qing Wang at [qing.w
 
 ---
 
-## 2. PhD Opportunity: "Routing Optimization"
+### 2. PhD Opportunity: "Routing Optimization"
 
 **Position Overview:**  
 We invite applications for a PhD position focused on advancing research in routing optimization, graph algorithms, and network science. Hosted at the Graph Research Lab within the School of Computing at ANU, this role will enable you to develop innovative algorithms to optimize routing in complex, dynamic networks, addressing challenges in transportation, logistics, and urban planning.
@@ -75,7 +75,7 @@ Email your application and inquiries to Associate Professor Qing Wang at [qing.w
 
 *Note:* All applicants must apply for admission following the ANU HDR policy and meet ANU’s language requirements.
 
-For more details on related projects and publications, please visit our [projects page](https://graphlabanu.github.io/website/projects/).
+For more details on related projects and publications, please visit our [research page](https://graphlabanu.github.io/website/publications/).
 
 We look forward to welcoming new scholars who are eager to contribute to groundbreaking research.
 

@@ -7,8 +7,9 @@
 
 # Site settings
 title: "Graph Research Lab @ ANU"
-description: "A leading research lab at ANU focusing on graph theory, deep learning, and network science. Explore our innovative research, PhD opportunities and research projects."
-url: "https://graphlabanu.github.io/website"
+description: "A leading research lab at ANU focusing on graph theory, deep learning, and network science."
+url: "https://graphlabanu.github.io"
+baseurl: "/website"
 plugins:
   - jekyll-sitemap
 

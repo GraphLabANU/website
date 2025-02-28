@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-## Join Our Research Team
+### Join Our Research Team
 
 At Graph Research Lab @ ANU, we are searching for passionate, talented, and motivated researchers eager to push the boundaries of graph theory, machine learning, and network science. Whether you’re an ANU student or a prospective PhD candidate, our dynamic research environment offers you opportunities to engage in groundbreaking projects, collaborate with leading experts, and build a successful career in academia or industry.
 
@@ -40,7 +40,7 @@ This PhD opportunity invites you to tackle grand challenges at the intersection 
 - Solid foundation in algorithm design and analysis, with excellent analytical and problem-solving skills.
 
 **Application:**  
-Email your application and inquiries to Associate Professor Qing Wang at [qing.wang@anu.edu.au](mailto:qing.wang@anu.edu.au) with the subject **“PhD Application”**. Include:  
+Email your application and inquiries to [qing.wang@anu.edu.au](mailto:qing.wang@anu.edu.au) with the subject **“PhD Application”**. Include:  
 1. A one-page motivation letter.  
 2. Your CV.  
 3. Academic transcripts.  
@@ -65,7 +65,7 @@ We invite applications for a PhD position focused on advancing research in routi
 - Solid foundation in algorithm design and analysis, with excellent analytical and problem-solving skills.
 
 **Application:**  
-Email your application and inquiries to Associate Professor Qing Wang at [qing.wang@anu.edu.au](mailto:qing.wang@anu.edu.au) with the subject **“PhD Application”**. Include:  
+Email your application and inquiries to [qing.wang@anu.edu.au](mailto:qing.wang@anu.edu.au) with the subject **“PhD Application”**. Include:  
 1. A one-page motivation letter.  
 2. Your CV.  
 3. Academic transcripts.  

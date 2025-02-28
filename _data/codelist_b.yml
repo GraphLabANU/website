@@ -45,6 +45,12 @@
   description: ICML 2023
   codelink: https://github.com/seanli3/lvc
   paperlink: https://openreview.net/pdf?id=szL4HN4hkH
+
+- name: Learning Partial Graph Matching via Optimal Partial Transport (OPGM)
+  image: letter-o.png
+  description: ICLR 2025
+  codelink: https://github.com/Gathika94/OPGM
+  paperlink: https://openreview.net/forum?id=uDXFOurrHM
   
 - name: Regularized Wasserstein Kernel (RWK)
   image: letter-r.png
@@ -58,4 +64,8 @@
   codelink: https://github.com/Gathika94/StableGM
   paperlink: https://openreview.net/forum?id=Vkv4vh7kkz
   
-
+- name: Towards Bridging Generalization and Expressivity of Graph Neural Networks
+  image: letter-t.png
+  description: ICLR 2025
+  codelink: https://github.com/seanli3/hom_gen
+  paperlink: https://openreview.net/forum?id=BOQpRtI4F5

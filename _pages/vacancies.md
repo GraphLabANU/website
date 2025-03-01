@@ -23,7 +23,8 @@ At Graph Research Lab @ ANU, we are searching for passionate, talented, and moti
 
 ---
 
-#### 1. PhD Opportunity: "Deep Learning for Graphs"
+#### 1. PhD Opportunity: "<span style="color: #005EB8;">Deep Learning for Graphs</span>"
+
 
 **Position Overview:**  
 This PhD opportunity invites you to tackle grand challenges at the intersection of deep learning and graph theory. By leveraging state-of-the-art techniques and recent advances, you will develop novel heuristics, scalable architectures, and theoretical frameworks to unlock the potential of graph-structured data while applying these innovations to solve real-world problems.
@@ -35,9 +36,9 @@ This PhD opportunity invites you to tackle grand challenges at the intersection 
 - Contribute to publications and conferences in leading forums such as NeurIPS, ICLR, ICML, and AAAI.
 
 **Eligibility:**  
-- A Bachelor's or Master’s degree in Computing, Mathematics, or a closely related field with First-Class Honours (or equivalent).  
+- A Bachelor's or Master’s degree in Computing or Mathematics, with First-Class Honours (or equivalent).  
 - Demonstrated excellence in programming, with proficiency in languages such as C, C++, or Python.  
-- Proven research experience or a strong academic interest in machine learning, deep learning, and/or graph theory.  
+- Proven research experience and a strong academic interest in machine learning, deep learning, and/or graph theory.  
 - Solid foundation in algorithm design and analysis, with excellent analytical and problem-solving skills.
 
 **Application:**  
@@ -49,7 +50,7 @@ Email your application and inquiries to [qing.wang@anu.edu.au](mailto:qing.wang@
 
 ---
 
-#### 2. PhD Opportunity: "Routing Optimization"
+#### 2. PhD Opportunity: "<span style="color: #005EB8;">Routing Optimization</span>"
 
 **Position Overview:**  
 We invite applications for a PhD position focused on advancing research in routing optimization, graph algorithms, and network science. Hosted at the Graph Research Lab within the School of Computing at ANU, this role will enable you to develop innovative algorithms to optimize routing in complex, dynamic networks—addressing challenges in transportation, logistics, and urban planning.
@@ -60,9 +61,9 @@ We invite applications for a PhD position focused on advancing research in routi
 - Contribute to high-quality publications and present your work at leading conferences such as SIGMOD and NeurIPS/ICLR/ICML.
 
 **Eligibility:**  
-- A Bachelor's or Master’s degree in Computing, Mathematics, or a closely related field with First-Class Honours (or equivalent).  
+- A Bachelor's or Master’s degree in Computing or Mathematics, with First-Class Honours (or equivalent).  
 - Demonstrated excellence in programming, with proficiency in languages such as C, C++, or Python.  
-- Proven research experience or a strong academic interest in machine learning, deep learning, and/or graph theory.  
+- Proven research experience and a strong academic interest in machine learning, deep learning, and/or graph theory.  
 - Solid foundation in algorithm design and analysis, with excellent analytical and problem-solving skills.
 
 **Application:**  

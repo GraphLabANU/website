@@ -12,6 +12,9 @@ permalink: /
   <em>"Graph Power: Unlocking Real-World Challenges"</em>
 </p>
 
+<h5 style="text-align: right;">
+  Explore our <a href="{{ site.url }}{{ site.baseurl }}/publications">research highlights</a> and <a href="{{ site.url }}{{ site.baseurl }}/vacancies">PhD opportunities</a>.
+</h5>
 
 <div id="html" markdown="0">
   {% assign number_printed = 0 %}
@@ -35,9 +38,7 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
 - Machine learning on graphs
 - Bridging graph theory and machine learning
 
-<h5>
-  Explore our <a href="{{ site.url }}{{ site.baseurl }}/publications">research highlights</a> and <a href="{{ site.url }}{{ site.baseurl }}/vacancies">PhD opportunities</a>.
-</h5>
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->

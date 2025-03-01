@@ -79,5 +79,4 @@ Email your application and inquiries to [qing.wang@anu.edu.au](mailto:qing.wang@
 
 For more details on related projects and publications, please visit our [research page](https://graphlabanu.github.io/website/publications/).
 
-We look forward to welcoming new scholars who are eager to contribute to groundbreaking research.
 

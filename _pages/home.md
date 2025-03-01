@@ -38,7 +38,7 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
 - Machine learning on graphs
 - Bridging graph theory and machine learning
 
-<br></br>
+
 
 <p style="margin-bottom: 20px;">Explore where we are ... </p>
 

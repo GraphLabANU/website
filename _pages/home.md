@@ -8,8 +8,9 @@ permalink: /
 
 <!-- Hero / Tagline Section -->
 <p style="font-size: 2rem; text-align: center; font-weight: bold; margin: 40px 0;">
-  Graph Power: Unlocking Real-World Challenges.
+  <em>Graph Power: Unlocking Real-World Challenges.</em>
 </p>
+
 
 <div id="html" markdown="0">
   {% assign number_printed = 0 %}

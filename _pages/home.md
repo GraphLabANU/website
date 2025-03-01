@@ -6,11 +6,39 @@ sitemap: true
 permalink: /
 ---
 
+<!-- Hero / Tagline Section -->
+<p style="font-size: 2rem; text-align: center; font-weight: bold; margin: 40px 0;">
+  Graph Power: Unlocking Real-World Challenges.
+</p>
 
- <p style="font-size: 1.2rem; margin-bottom: 30px;">Exploring graph-structured data to unlock innovative solutions for real-world challenges.</p>
+<div id="html" markdown="0">
+  {% assign number_printed = 0 %}
+  <div class="row topic-row">
+      {% for project in site.data.projects %}
+      <div class="col-md-3 col-xs-5 topic-card">
+        <a class="card" style="width: 18rem;" href="{{ site.url }}{{ site.baseurl }}/{{ project.page }}">
+          <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" alt="{{ project.title }} image" height="120" width="auto">
+          <div class="card-body">
+            <h6 class="card-title">{{ project.title }}</h6>
+          </div>
+        </a>
+      </div>
+     {% endfor %}
+  </div>
+</div>
 
+We are a research team at the [School of Computing](https://cs.anu.edu.au/), Australian National University. Our overarching research goal is to explore and understand graph-structured data. In today's real-world applications, graphs are ubiquitously used for representing complex objects and their relationships such as cities in a road network, atoms in a molecule, friendships in social networks, connections in computer networks, and links among web pages. We focus on the following research areas:
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+- Graph theory and algorithms
+- Machine learning on graphs
+- Bridging graph theory and machine learning
+
+<h5>
+  Check out our <a href="{{ site.url }}{{ site.baseurl }}/publications">research highlights</a> and <a href="{{ site.url }}{{ site.baseurl }}/vacancies">PhD opportunities</a>.
+</h5>
+
+<!-- Carousel Section -->
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -25,67 +53,34 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu1.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu1.jpg" alt="Slide 1" style="max-height: 500px; width: 100%; object-fit: cover;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu2.jpg" alt="Slide 2" style="max-height: 500px; width: 100%; object-fit: cover;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/subset.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/subset.jpg" alt="Slide 3" style="max-height: 500px; width: 100%; object-fit: cover;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/canberra.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/canberra.jpg" alt="Slide 4" style="max-height: 500px; width: 100%; object-fit: cover;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/kangaroo.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/kangaroo.jpg" alt="Slide 5" style="max-height: 500px; width: 100%; object-fit: cover;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/koala.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/koala.jpg" alt="Slide 6" style="max-height: 500px; width: 100%; object-fit: cover;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/map.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/map.jpg" alt="Slide 7" style="max-height: 500px; width: 100%; object-fit: cover;" />
         </div>
     </div>
 
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-We are a research team at the [School of Computing](https://cs.anu.edu.au/), Australian National University. Our overarching research goal is to explore and understand graph-structured data. In today's real-world applications, graphs are ubiquitously used for representing complex objects and their relationships such as cities in a road network, atoms in a molecule, friendships in social networks, connections in computer networks, and links among web pages. We focus on the following research areas:
-
-- Graph theory and algorithms
-- Machine learning on graphs
-- Bridging graph theory and machine learning
-
-<h5>
-  Check out our <a href="{{ site.url }}{{ site.baseurl }}/publications">recent research highlights</a> and <a href="{{ site.url }}{{ site.baseurl }}/vacancies">research opportunities</a>.
-</h5>
-
-<div id="html" markdown="0">
-  {% assign number_printed = 0 %}
-  <div class="row topic-row">
-      {% for project in site.data.projects %}
-      <div class="col-md-3 col-xs-5 topic-card">
-        <a class="card" style="width: 18rem;" href="{{ site.url }}{{ site.baseurl }}/{{ project.page }}">
-          <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/images/propic/{{ project.image }}" alt="Card image cap" height="120" width="auto">
-          <div class="card-body">
-            <h6 class="card-title">{{ project.title }}</h6>
-          </div>
-        </a>
-      </div>
-     {% endfor %}
-  </div>
-
-</div>
-
-<div class="col-sm-6 clearfix">
- <div class="box">
-   <protit>  </protit>
- </div>
+    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
 </div>

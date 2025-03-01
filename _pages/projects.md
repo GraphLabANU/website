@@ -118,7 +118,8 @@ Below are some projects that we are currently working on / or have worked on in 
    - <span style="color:#006080">Stable Tree Labelling for Accelerating Distance Queries on Dynamic Road Networks</span>, M. Farhan, H. Koehler, and Q. Wang, The 28th International Conference on Extending Database Technology (EDBT), 2025  ( <a href="https://openproceedings.org/2025/conf/edbt/paper-127.pdf"> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
 
    - <span style="color:#006080">Dual-Hierarchy Labelling: Scaling Up Distance Queries on Dynamic Road Networks</span>, M. Farhan, H. Koehler, and Q. Wang, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2025 ( <a href=""> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href=""> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
-    
+
+   - <span style="color:#006080">Divide-and-Conquer: Scalable Shortest Path Counting on Large Road Networks</span>, M. Farhan, H. Koehler, and Q. Wang, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2025 ( <a href=""> <span style="background-color: #e6f2ff"> pdf </span> </a>\|<a href=""> <span style="background-color: #e6f2ff"> arXiv </span> </a>\|<a href="https://graphlabanu.github.io/website/code_datasets/"> <span style="background-color: #e6f2ff"> code </span> </a>)
    </details>
     
    </div>

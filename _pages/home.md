@@ -38,7 +38,7 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
 - Machine learning on graphs
 - Bridging graph theory and machine learning
 
-
+<p style="margin-bottom: 20px;">We're at Canberra: </p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
@@ -53,29 +53,29 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu1.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu2.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/subset.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/canberra.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/kangaroo.jpg" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/koala.jpg" alt="Slide 6" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/map.jpg" alt="Slide 7" />
-        </div>
+<div class="carousel-inner" markdown="0">
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu1.jpg" alt="Slide 1" style="max-height: 500px; width: auto; margin: 0 auto;" />
     </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/anu2.jpg" alt="Slide 2" style="max-height: 500px; width: auto; margin: 0 auto;" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/subset.jpg" alt="Slide 3" style="max-height: 500px; width: auto; margin: 0 auto;" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/canberra.jpg" alt="Slide 4" style="max-height: 500px; width: auto; margin: 0 auto;" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/kangaroo.jpg" alt="Slide 5" style="max-height: 500px; width: auto; margin: 0 auto;" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/koala.jpg" alt="Slide 6" style="max-height: 500px; width: auto; margin: 0 auto;" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/map.jpg" alt="Slide 7" style="max-height: 500px; width: auto; margin: 0 auto;" />
+    </div>
+</div>
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

@@ -15,11 +15,11 @@ At Graph Research Lab @ ANU, we are searching for passionate, talented, and moti
 
 ---
 
-### Why Join Graph Research Lab @ ANU?
+#### Why Join Graph Research Lab @ ANU?
 
-- **Cutting-Edge Research:** Work on high-impact projects that advance the fields of deep learning and routing optimization.
-- **Collaborative Environment:** Join a multidisciplinary team with a strong track record of influential publications and conference presentations.
-- **Career Growth:** Benefit from world-class mentorship, access to state-of-the-art facilities, and a supportive research culture.
+- **Cutting-edge research:** Work on high-impact projects that advance the fields of deep learning and routing optimization.
+- **Collaborative environment:** Join a multidisciplinary team with a strong track record of influential publications and conference presentations.
+- **Career growth:** Benefit from world-class mentorship, access to state-of-the-art facilities, and a supportive research culture.
 
 ---
 

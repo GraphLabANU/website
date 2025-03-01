@@ -6,13 +6,9 @@ sitemap: true
 permalink: /
 ---
 
-<section class="hero" style="background-image: url('{{ site.url }}{{ site.baseurl }}/images/hero-background.jpg'); padding: 80px 0; text-align: center; color: #fff;">
-  <div class="container">
-    <h1 style="font-size: 3rem; margin-bottom: 20px;">Bridging Graph Theory and Machine Learning</h1>
-    <p style="font-size: 1.2rem; margin-bottom: 30px;">Join us in exploring graph-structured data to unlock innovative solutions for real-world challenges.</p>
-    <a href="{{ site.url }}{{ site.baseurl }}/vacancies" class="btn btn-primary" style="padding: 10px 20px; font-size: 1.1rem;">Explore PhD Opportunities</a>
-  </div>
-</section>
+
+ <p style="font-size: 1.2rem; margin-bottom: 30px;">Exploring graph-structured data to unlock innovative solutions for real-world challenges.</p>
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->

@@ -8,7 +8,7 @@ permalink: /
 
 
 <!-- Hero / Tagline Section -->
-<section class="hero" style="position: relative; background: url('{{ site.url }}{{ site.baseurl }}/images/hero-background.jpg') no-repeat center center/cover; height: 80vh; display: flex; align-items: center; justify-content: center;">
+<section class="hero" style="position: relative; height: 80vh; display: flex; align-items: center; justify-content: center;">
   <!-- Overlay -->
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5);"></div>
   <!-- Tagline -->
@@ -43,7 +43,7 @@ We are a research team at the [School of Computing](https://cs.anu.edu.au/), Aus
 - Bridging graph theory and machine learning
 
 <h5>
-  Check out our <a href="{{ site.url }}{{ site.baseurl }}/publications">research highlights</a> and <a href="{{ site.url }}{{ site.baseurl }}/vacancies">PhD opportunities</a>.
+  Explore our <a href="{{ site.url }}{{ site.baseurl }}/publications">research highlights</a> and <a href="{{ site.url }}{{ site.baseurl }}/vacancies">PhD opportunities</a>.
 </h5>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">

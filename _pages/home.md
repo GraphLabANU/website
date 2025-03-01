@@ -11,7 +11,6 @@ permalink: /
   <em>Graph Power: Unlocking Real-World Challenges.</em>
 </p>
 
-
 <div id="html" markdown="0">
   {% assign number_printed = 0 %}
   <div class="row topic-row">

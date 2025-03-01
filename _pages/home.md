@@ -8,16 +8,9 @@ permalink: /
 
 
 <!-- Hero / Tagline Section -->
-<section class="hero" style="position: relative; height: 80vh; display: flex; align-items: center; justify-content: center;">
-  <!-- Overlay -->
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5);"></div>
-  <!-- Tagline -->
-  <div style="position: relative; z-index: 1; text-align: center;">
-    <p class="hero-tagline">
-      Graph Power: Unlocking Real-World Challenges.
-    </p>
-  </div>
-</section>
+<p style="font-family: 'Montserrat', sans-serif; font-size: 2rem; text-align: center; font-weight: bold; margin: 20px 0;">
+  <em>"Graph Power: Unlocking Real-World Challenges"</em>
+</p>
 
 
 <div id="html" markdown="0">

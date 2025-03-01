@@ -8,7 +8,7 @@ permalink: /
 
 
 <!-- Hero / Tagline Section -->
-<p style="font-family: 'Montserrat', sans-serif; font-size: 2rem; text-align: center; font-weight: bold; margin: 20px 0;">
+<p style="font-size: 2rem; text-align: center; font-weight: bold; margin: 20px 0;">
   <em>"Graph Power: Unlocking Real-World Challenges"</em>
 </p>
 

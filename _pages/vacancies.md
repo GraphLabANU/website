@@ -7,6 +7,7 @@ permalink: /vacancies
 keywords: "PhD in Graph Theory, Deep Learning for Graphs, Fully Funded PhD ANU"
 ---
 
+<!-- 
 ### Join Our Research Team
 
 At Graph Research Lab @ ANU, we are searching for passionate, talented, and motivated researchers eager to push the boundaries of graph theory, machine learning, and network science. Whether you’re an ANU student or a prospective PhD candidate, our dynamic research environment offers you opportunities to engage in groundbreaking projects, collaborate with leading experts, and build a successful career in academia or industry.
@@ -78,5 +79,5 @@ Email your application and inquiries to [qing.wang@anu.edu.au](mailto:qing.wang@
 *Note:* All applicants must apply for admission following the ANU HDR policy and meet ANU’s language requirements.
 
 For more details on related projects and publications, please visit our [research page](https://graphlabanu.github.io/website/publications/).
-
+-->
 

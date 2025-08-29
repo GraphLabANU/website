@@ -1,8 +1,8 @@
 - name: Qing Wang
   photo: qing.jpeg
   info: Associate Professor 
-  area: See <a href="https://comp.anu.edu.au/people/qing-wang/">webpage</a>
-  email: qing.wang@anu.edu.au
+  # area: See <a href="https://comp.anu.edu.au/people/qing-wang/">webpage</a>
+  # email: qing.wang@anu.edu.au
   number_educ: 1
   education1: PhD (Dr.rer.nat.), CAU, Germany
   education2: 
